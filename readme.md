@@ -38,6 +38,5 @@ cabinet.tax.gov.ua
 Нажимаем Ведення звітності   
 Находим в списке документ     
 F1316605 Заява про реєстрацiю програмного реєстратора розрахункових операцiй (форма № 1-ПРРО).
-![enter image description here](https://i.ibb.co/dBbJLzM/screencapture-cabinet-tax-gov-ua-reporting-doc-2023-210470854265181-2024-01-11-15-26-15.png)
-
-
+![enter image description here](https://postimg.cc/7JVPXVWM)
+ 
